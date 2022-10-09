@@ -1,5 +1,1 @@
-
-rrrr
-
-
-цукцкцу ц
+print('Hello World')
